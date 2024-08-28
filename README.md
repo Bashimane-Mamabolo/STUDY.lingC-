@@ -1,0 +1,1 @@
+# LINQ studying in C#
